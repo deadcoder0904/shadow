@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![Shadow](.png)
+![Shadow](http://imgur.com/mglkQ3A.png)
 
 ## License
 
